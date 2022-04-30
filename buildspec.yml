@@ -16,7 +16,7 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/welcome.jar
+    - target/0.0.1-SNAPSHOT.war
 
 # version: 0.2
 
