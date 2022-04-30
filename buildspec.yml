@@ -16,6 +16,7 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
+    - '**/*'
     - target/spring-boot-CRUD-with-thymeleaf-0.0.1-SNAPSHOT.war
 
 # version: 0.2
